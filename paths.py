@@ -1,0 +1,5 @@
+CUSTOM_DATA_PATH = './custom_data'
+TNVED_CODES_PATH = './tnved_data/tnved_data.csv'
+SANCTIONS_PATH = './sanctions_data'
+SAVE_CSV_PATH = './sources/'
+DATA_PATH = './sources/customs_customdata.csv'
